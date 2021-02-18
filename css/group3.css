@@ -1,0 +1,19 @@
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;}
+
+.bg-loaded{opacity: 1;}
+
+.woocommerce-product-gallery{ opacity: 1 !important; }
