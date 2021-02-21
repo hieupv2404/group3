@@ -1,0 +1,52 @@
+@media screen and (max-width: 549px){
+    .mona_title {
+    		font-size: 26px;
+		}
+		.mona_title:before {
+    		display: none;
+		}
+		.mona_title:after {
+    		content: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/cavas_center.png);
+    		display: block;
+    		margin: 0 auto;
+    		margin-top: 10px;
+		}
+}
+@media screen and (max-width: 549px){
+    body{
+      font-size: 100%;
+    }
+  }
+@media (min-width:850px) {
+
+    #section_1171288620 {
+      min-height: 525px;
+    }
+  
+  }
+@media (min-width:550px) {
+
+    #image_928030903 {
+      width: 20%;
+    }
+  
+  }
+  
+  
+@media (min-width:850px) {
+  
+    #image_928030903 {
+      width: 15%;
+    }
+  
+  }
+  @media (max-width: 549px) {
+    .header-main{height: 70px}
+    #logo img{max-height: 70px}
+  }
+  @media screen and (min-width: 550px){
+    .products .box-vertical .box-image{
+      min-width: 300px!important;
+      width: 300px!important;
+    }
+    }
