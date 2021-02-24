@@ -32,12 +32,12 @@
   }
 
   .header-main {
-    height: 150px
+    height: 100px
   }
 
   #logo img {
-    max-height: 150px;
-    max-width: 150px
+    max-height: 100px !important;
+    max-width: 100px;
   }
 
   #logo {
