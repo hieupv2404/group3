@@ -1,7 +1,9 @@
 :root {
     --primary-color: #b355a0;
   }
-
+html{
+  scroll-behavior: smooth;
+}
   /* Site Width */
   .full-width .ubermenu-nav,
   .container,
