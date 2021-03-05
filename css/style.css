@@ -459,7 +459,7 @@ html{
   /*---------header-----------*/
   .header-top {
     position: relative;
-    background-image: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/bg_header_control.png);
+    background-image: url(/img/bg_header_control.png);
     background-repeat: no-repeat;
     background-size: 100%;
     display: block;
@@ -545,14 +545,14 @@ html{
   }
 
   .mona_title:before {
-    content: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/cavas_left.png);
+    content: url(/img/cavas_left.png);
     display: inline-block;
     vertical-align: top;
     margin-right: 20px;
   }
 
   .mona_title:after {
-    content: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/cavas_right.png);
+    content: url(/img/cavas_right.png);
     display: inline-block;
     vertical-align: top;
     margin-left: 20px;
@@ -618,7 +618,7 @@ html{
 
   /*---style sec_doctor---*/
   .sec_doctor {
-    background-image: url(img/pattern.jpg);
+    background-image: url(/img/pattern.jpg);
     background-repeat: repeat;
     text-align: center;
     position: relative;
@@ -1168,7 +1168,7 @@ html{
       /*---------header-----------*/
       .header-top {
         position: relative;
-        background-image: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/bg_header_control.png);
+        background-image: url(/img/bg_header_control.png);
         background-repeat: no-repeat;
         background-size: 100%;
         display: block;
@@ -1254,14 +1254,14 @@ html{
       }
   
       .mona_title:before {
-        content: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/cavas_left.png);
+        content: url(/img/cavas_left.png);
         display: inline-block;
         vertical-align: top;
         margin-right: 20px;
       }
   
       .mona_title:after {
-        content: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/cavas_right.png);
+        content: url(/img/cavas_right.png);
         display: inline-block;
         vertical-align: top;
         margin-left: 20px;
@@ -1327,7 +1327,7 @@ html{
   
       /*---style sec_doctor---*/
       .sec_doctor {
-        background-image: url(img/pattern.jpg);
+        background-image: url(/img/pattern.jpg);
         background-repeat: repeat;
         text-align: center;
         position: relative;
@@ -1547,7 +1547,7 @@ html{
       /*---------header-----------*/
       .header-top {
         position: relative;
-        background-image: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/bg_header_control.png);
+        background-image: url(/img/bg_header_control.png);
         background-repeat: no-repeat;
         background-size: 100%;
         display: block;
@@ -1633,14 +1633,14 @@ html{
       }
   
       .mona_title:before {
-        content: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/cavas_left.png);
+        content: url(/img/cavas_left.png);
         display: inline-block;
         vertical-align: top;
         margin-right: 20px;
       }
   
       .mona_title:after {
-        content: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/cavas_right.png);
+        content: url(/img/cavas_right.png);
         display: inline-block;
         vertical-align: top;
         margin-left: 20px;
@@ -1706,7 +1706,7 @@ html{
   
       /*---style sec_doctor---*/
       .sec_doctor {
-        background-image: url(img/pattern.jpg);
+        background-image: url(/img/pattern.jpg);
         background-repeat: repeat;
         text-align: center;
         position: relative;

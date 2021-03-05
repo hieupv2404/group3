@@ -6,7 +6,7 @@
     		display: none;
 		}
 		.mona_title:after {
-    		content: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/cavas_center.png);
+    		content: url(/img/cavas_center.png);
     		display: block;
     		margin: 0 auto;
     		margin-top: 10px;

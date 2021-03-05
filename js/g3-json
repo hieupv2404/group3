@@ -1,11 +1,11 @@
 // 20210218225743
-// http://mauweb.monamedia.net/orientskin/wp-json/
+// hacospa.com/wp-json/
 
 {
   "name": "orientskin",
   "description": "Một trang web mới sử dụng WordPress",
-  "url": "http://mauweb.monamedia.net/orientskin",
-  "home": "http://mauweb.monamedia.net/orientskin",
+  "url": "hacospa.com",
+  "home": "hacospa.com",
   "gmt_offset": "0",
   "timezone_string": "",
   "namespaces": [
@@ -40,7 +40,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/"
+        "self": "hacospa.com/wp-json/"
       }
     },
     "/oembed/1.0": {
@@ -66,7 +66,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/oembed/1.0"
+        "self": "hacospa.com/wp-json/oembed/1.0"
       }
     },
     "/oembed/1.0/embed": {
@@ -95,7 +95,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/oembed/1.0/embed"
+        "self": "hacospa.com/wp-json/oembed/1.0/embed"
       }
     },
     "/oembed/1.0/proxy": {
@@ -145,7 +145,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/oembed/1.0/proxy"
+        "self": "hacospa.com/wp-json/oembed/1.0/proxy"
       }
     },
     "/contact-form-7/v1": {
@@ -171,7 +171,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/contact-form-7/v1"
+        "self": "hacospa.com/wp-json/contact-form-7/v1"
       }
     },
     "/contact-form-7/v1/contact-forms": {
@@ -199,7 +199,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/contact-form-7/v1/contact-forms"
+        "self": "hacospa.com/wp-json/contact-form-7/v1/contact-forms"
       }
     },
     "/contact-form-7/v1/contact-forms/(?P<id>\\d+)": {
@@ -295,7 +295,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/nextend-social-login/v1"
+        "self": "hacospa.com/wp-json/nextend-social-login/v1"
       }
     },
     "/nextend-social-login/v1/(?P<provider>\\w[\\w\\s\\-]*)/get_user": {
@@ -342,7 +342,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1"
+        "self": "hacospa.com/wp-json/wc/v1"
       }
     },
     "/wc/v1/coupons": {
@@ -579,7 +579,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/coupons"
+        "self": "hacospa.com/wp-json/wc/v1/coupons"
       }
     },
     "/wc/v1/coupons/(?P<id>[\\d]+)": {
@@ -887,7 +887,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/coupons/batch"
+        "self": "hacospa.com/wp-json/wc/v1/coupons/batch"
       }
     },
     "/wc/v1/customers/(?P<customer_id>[\\d]+)/downloads": {
@@ -1075,7 +1075,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/customers"
+        "self": "hacospa.com/wp-json/wc/v1/customers"
       }
     },
     "/wc/v1/customers/(?P<id>[\\d]+)": {
@@ -1239,7 +1239,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/customers/batch"
+        "self": "hacospa.com/wp-json/wc/v1/customers/batch"
       }
     },
     "/wc/v1/orders/(?P<order_id>[\\d]+)/notes": {
@@ -2385,7 +2385,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/orders"
+        "self": "hacospa.com/wp-json/wc/v1/orders"
       }
     },
     "/wc/v1/orders/(?P<id>[\\d]+)": {
@@ -3779,7 +3779,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/orders/batch"
+        "self": "hacospa.com/wp-json/wc/v1/orders/batch"
       }
     },
     "/wc/v1/products/attributes/(?P<attribute_id>[\\d]+)/terms": {
@@ -4145,7 +4145,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/products/attributes"
+        "self": "hacospa.com/wp-json/wc/v1/products/attributes"
       }
     },
     "/wc/v1/products/attributes/(?P<id>[\\d]+)": {
@@ -4301,7 +4301,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/products/attributes/batch"
+        "self": "hacospa.com/wp-json/wc/v1/products/attributes/batch"
       }
     },
     "/wc/v1/products/categories": {
@@ -4464,7 +4464,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/products/categories"
+        "self": "hacospa.com/wp-json/wc/v1/products/categories"
       }
     },
     "/wc/v1/products/categories/(?P<id>[\\d]+)": {
@@ -4634,7 +4634,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/products/categories/batch"
+        "self": "hacospa.com/wp-json/wc/v1/products/categories/batch"
       }
     },
     "/wc/v1/products/(?P<product_id>[\\d]+)/reviews": {
@@ -4954,7 +4954,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/products/shipping_classes"
+        "self": "hacospa.com/wp-json/wc/v1/products/shipping_classes"
       }
     },
     "/wc/v1/products/shipping_classes/(?P<id>[\\d]+)": {
@@ -5072,7 +5072,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/products/shipping_classes/batch"
+        "self": "hacospa.com/wp-json/wc/v1/products/shipping_classes/batch"
       }
     },
     "/wc/v1/products/tags": {
@@ -5208,7 +5208,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/products/tags"
+        "self": "hacospa.com/wp-json/wc/v1/products/tags"
       }
     },
     "/wc/v1/products/tags/(?P<id>[\\d]+)": {
@@ -5326,7 +5326,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/products/tags/batch"
+        "self": "hacospa.com/wp-json/wc/v1/products/tags/batch"
       }
     },
     "/wc/v1/products": {
@@ -6446,7 +6446,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/products"
+        "self": "hacospa.com/wp-json/wc/v1/products"
       }
     },
     "/wc/v1/products/(?P<id>[\\d]+)": {
@@ -8390,7 +8390,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/products/batch"
+        "self": "hacospa.com/wp-json/wc/v1/products/batch"
       }
     },
     "/wc/v1/reports/sales": {
@@ -8438,7 +8438,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/reports/sales"
+        "self": "hacospa.com/wp-json/wc/v1/reports/sales"
       }
     },
     "/wc/v1/reports/top_sellers": {
@@ -8486,7 +8486,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/reports/top_sellers"
+        "self": "hacospa.com/wp-json/wc/v1/reports/top_sellers"
       }
     },
     "/wc/v1/reports": {
@@ -8513,7 +8513,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/reports"
+        "self": "hacospa.com/wp-json/wc/v1/reports"
       }
     },
     "/wc/v1/taxes/classes": {
@@ -8554,7 +8554,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/taxes/classes"
+        "self": "hacospa.com/wp-json/wc/v1/taxes/classes"
       }
     },
     "/wc/v1/taxes/classes/(?P<slug>\\w[\\w\\s\\-]*)": {
@@ -8727,7 +8727,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/taxes"
+        "self": "hacospa.com/wp-json/wc/v1/taxes"
       }
     },
     "/wc/v1/taxes/(?P<id>[\\d]+)": {
@@ -8935,7 +8935,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/taxes/batch"
+        "self": "hacospa.com/wp-json/wc/v1/taxes/batch"
       }
     },
     "/wc/v1/webhooks/(?P<webhook_id>[\\d]+)/deliveries": {
@@ -9154,7 +9154,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/webhooks"
+        "self": "hacospa.com/wp-json/wc/v1/webhooks"
       }
     },
     "/wc/v1/webhooks/(?P<id>[\\d]+)": {
@@ -9292,7 +9292,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v1/webhooks/batch"
+        "self": "hacospa.com/wp-json/wc/v1/webhooks/batch"
       }
     },
     "/wc/v2": {
@@ -9318,7 +9318,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2"
+        "self": "hacospa.com/wp-json/wc/v2"
       }
     },
     "/wc/v2/coupons": {
@@ -9590,7 +9590,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/coupons"
+        "self": "hacospa.com/wp-json/wc/v2/coupons"
       }
     },
     "/wc/v2/coupons/(?P<id>[\\d]+)": {
@@ -9978,7 +9978,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/coupons/batch"
+        "self": "hacospa.com/wp-json/wc/v2/coupons/batch"
       }
     },
     "/wc/v2/customers/(?P<customer_id>[\\d]+)/downloads": {
@@ -10201,7 +10201,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/customers"
+        "self": "hacospa.com/wp-json/wc/v2/customers"
       }
     },
     "/wc/v2/customers/(?P<id>[\\d]+)": {
@@ -10435,7 +10435,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/customers/batch"
+        "self": "hacospa.com/wp-json/wc/v2/customers/batch"
       }
     },
     "/wc/v2/orders/(?P<order_id>[\\d]+)/notes": {
@@ -11790,7 +11790,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/orders"
+        "self": "hacospa.com/wp-json/wc/v2/orders"
       }
     },
     "/wc/v2/orders/(?P<id>[\\d]+)": {
@@ -13472,7 +13472,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/orders/batch"
+        "self": "hacospa.com/wp-json/wc/v2/orders/batch"
       }
     },
     "/wc/v2/products/attributes/(?P<attribute_id>[\\d]+)/terms": {
@@ -13838,7 +13838,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/products/attributes"
+        "self": "hacospa.com/wp-json/wc/v2/products/attributes"
       }
     },
     "/wc/v2/products/attributes/(?P<id>[\\d]+)": {
@@ -13994,7 +13994,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/products/attributes/batch"
+        "self": "hacospa.com/wp-json/wc/v2/products/attributes/batch"
       }
     },
     "/wc/v2/products/categories": {
@@ -14157,7 +14157,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/products/categories"
+        "self": "hacospa.com/wp-json/wc/v2/products/categories"
       }
     },
     "/wc/v2/products/categories/(?P<id>[\\d]+)": {
@@ -14327,7 +14327,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/products/categories/batch"
+        "self": "hacospa.com/wp-json/wc/v2/products/categories/batch"
       }
     },
     "/wc/v2/products/(?P<product_id>[\\d]+)/reviews": {
@@ -14711,7 +14711,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/products/shipping_classes"
+        "self": "hacospa.com/wp-json/wc/v2/products/shipping_classes"
       }
     },
     "/wc/v2/products/shipping_classes/(?P<id>[\\d]+)": {
@@ -14829,7 +14829,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/products/shipping_classes/batch"
+        "self": "hacospa.com/wp-json/wc/v2/products/shipping_classes/batch"
       }
     },
     "/wc/v2/products/tags": {
@@ -14965,7 +14965,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/products/tags"
+        "self": "hacospa.com/wp-json/wc/v2/products/tags"
       }
     },
     "/wc/v2/products/tags/(?P<id>[\\d]+)": {
@@ -15083,7 +15083,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/products/tags/batch"
+        "self": "hacospa.com/wp-json/wc/v2/products/tags/batch"
       }
     },
     "/wc/v2/products": {
@@ -15869,7 +15869,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/products"
+        "self": "hacospa.com/wp-json/wc/v2/products"
       }
     },
     "/wc/v2/products/(?P<id>[\\d]+)": {
@@ -17063,7 +17063,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/products/batch"
+        "self": "hacospa.com/wp-json/wc/v2/products/batch"
       }
     },
     "/wc/v2/products/(?P<product_id>[\\d]+)/variations": {
@@ -18153,7 +18153,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/reports/sales"
+        "self": "hacospa.com/wp-json/wc/v2/reports/sales"
       }
     },
     "/wc/v2/reports/top_sellers": {
@@ -18201,7 +18201,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/reports/top_sellers"
+        "self": "hacospa.com/wp-json/wc/v2/reports/top_sellers"
       }
     },
     "/wc/v2/reports": {
@@ -18228,7 +18228,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/reports"
+        "self": "hacospa.com/wp-json/wc/v2/reports"
       }
     },
     "/wc/v2/settings": {
@@ -18247,7 +18247,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/settings"
+        "self": "hacospa.com/wp-json/wc/v2/settings"
       }
     },
     "/wc/v2/settings/(?P<group_id>[\\w-]+)": {
@@ -18385,7 +18385,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/shipping/zones"
+        "self": "hacospa.com/wp-json/wc/v2/shipping/zones"
       }
     },
     "/wc/v2/shipping/zones/(?P<id>[\\d-]+)": {
@@ -18683,7 +18683,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/taxes/classes"
+        "self": "hacospa.com/wp-json/wc/v2/taxes/classes"
       }
     },
     "/wc/v2/taxes/classes/(?P<slug>\\w[\\w\\s\\-]*)": {
@@ -18856,7 +18856,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/taxes"
+        "self": "hacospa.com/wp-json/wc/v2/taxes"
       }
     },
     "/wc/v2/taxes/(?P<id>[\\d]+)": {
@@ -19064,7 +19064,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/taxes/batch"
+        "self": "hacospa.com/wp-json/wc/v2/taxes/batch"
       }
     },
     "/wc/v2/webhooks/(?P<webhook_id>[\\d]+)/deliveries": {
@@ -19283,7 +19283,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/webhooks"
+        "self": "hacospa.com/wp-json/wc/v2/webhooks"
       }
     },
     "/wc/v2/webhooks/(?P<id>[\\d]+)": {
@@ -19421,7 +19421,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/webhooks/batch"
+        "self": "hacospa.com/wp-json/wc/v2/webhooks/batch"
       }
     },
     "/wc/v2/system_status": {
@@ -19448,7 +19448,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/system_status"
+        "self": "hacospa.com/wp-json/wc/v2/system_status"
       }
     },
     "/wc/v2/system_status/tools": {
@@ -19476,7 +19476,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/system_status/tools"
+        "self": "hacospa.com/wp-json/wc/v2/system_status/tools"
       }
     },
     "/wc/v2/system_status/tools/(?P<id>[\\w-]+)": {
@@ -19565,7 +19565,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/shipping_methods"
+        "self": "hacospa.com/wp-json/wc/v2/shipping_methods"
       }
     },
     "/wc/v2/shipping_methods/(?P<id>[\\w-]+)": {
@@ -19622,7 +19622,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wc/v2/payment_gateways"
+        "self": "hacospa.com/wp-json/wc/v2/payment_gateways"
       }
     },
     "/wc/v2/payment_gateways/(?P<id>[\\w-]+)": {
@@ -19720,7 +19720,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/regenerate-thumbnails/v1"
+        "self": "hacospa.com/wp-json/regenerate-thumbnails/v1"
       }
     },
     "/regenerate-thumbnails/v1/regenerate/(?P<id>[\\d]+)": {
@@ -19829,7 +19829,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/regenerate-thumbnails/v1/featuredimages"
+        "self": "hacospa.com/wp-json/regenerate-thumbnails/v1/featuredimages"
       }
     },
     "/wp/v2": {
@@ -19855,7 +19855,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2"
+        "self": "hacospa.com/wp-json/wp/v2"
       }
     },
     "/wp/v2/posts": {
@@ -20214,7 +20214,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/posts"
+        "self": "hacospa.com/wp-json/wp/v2/posts"
       }
     },
     "/wp/v2/posts/(?P<id>[\\d]+)": {
@@ -20817,7 +20817,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/pages"
+        "self": "hacospa.com/wp-json/wp/v2/pages"
       }
     },
     "/wp/v2/pages/(?P<id>[\\d]+)": {
@@ -21376,7 +21376,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/media"
+        "self": "hacospa.com/wp-json/wp/v2/media"
       }
     },
     "/wp/v2/media/(?P<id>[\\d]+)": {
@@ -21784,7 +21784,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/ux-blocks"
+        "self": "hacospa.com/wp-json/wp/v2/ux-blocks"
       }
     },
     "/wp/v2/ux-blocks/(?P<id>[\\d]+)": {
@@ -22261,7 +22261,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/product"
+        "self": "hacospa.com/wp-json/wp/v2/product"
       }
     },
     "/wp/v2/product/(?P<id>[\\d]+)": {
@@ -22449,7 +22449,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/types"
+        "self": "hacospa.com/wp-json/wp/v2/types"
       }
     },
     "/wp/v2/types/(?P<type>[\\w-]+)": {
@@ -22509,7 +22509,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/statuses"
+        "self": "hacospa.com/wp-json/wp/v2/statuses"
       }
     },
     "/wp/v2/statuses/(?P<status>[\\w-]+)": {
@@ -22574,7 +22574,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/taxonomies"
+        "self": "hacospa.com/wp-json/wp/v2/taxonomies"
       }
     },
     "/wp/v2/taxonomies/(?P<taxonomy>[\\w-]+)": {
@@ -22756,7 +22756,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/categories"
+        "self": "hacospa.com/wp-json/wp/v2/categories"
       }
     },
     "/wp/v2/categories/(?P<id>[\\d]+)": {
@@ -22994,7 +22994,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/tags"
+        "self": "hacospa.com/wp-json/wp/v2/tags"
       }
     },
     "/wp/v2/tags/(?P<id>[\\d]+)": {
@@ -23285,7 +23285,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/users"
+        "self": "hacospa.com/wp-json/wp/v2/users"
       }
     },
     "/wp/v2/users/(?P<id>[\\d]+)": {
@@ -23563,7 +23563,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/users/me"
+        "self": "hacospa.com/wp-json/wp/v2/users/me"
       }
     },
     "/wp/v2/comments": {
@@ -23817,7 +23817,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/comments"
+        "self": "hacospa.com/wp-json/wp/v2/comments"
       }
     },
     "/wp/v2/comments/(?P<id>[\\d]+)": {
@@ -24073,7 +24073,7 @@
         }
       ],
       "_links": {
-        "self": "http://mauweb.monamedia.net/orientskin/wp-json/wp/v2/settings"
+        "self": "hacospa.com/wp-json/wp/v2/settings"
       }
     }
   },

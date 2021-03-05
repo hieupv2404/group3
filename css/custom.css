@@ -213,14 +213,14 @@ ul.product_list_widget {
 }
 
 .mona_title:before {
-  content: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/cavas_left.png);
+  content: url(/img/cavas_left.png);
   display: inline-block;
   vertical-align: top;
   margin-right: 20px;
 }
 
 .mona_title:after {
-  content: url(http://mauweb.monamedia.net/orientskin/wp-content/uploads/2018/05/cavas_right.png);
+  content: url(/img/cavas_right.png);
   display: inline-block;
   vertical-align: top;
   margin-left: 20px;
